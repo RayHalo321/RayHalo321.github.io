@@ -2,33 +2,59 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 中国科学技术大学 · 人工智能与数据科学学院 · 数据科学与大数据技术
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📧 halo@mail.ustc.edu.cn</p>
+    <p>📱 19857706296</p>
+    <p>📍 安徽 合肥</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## 个人简介
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+黄思睿，中国科学技术大学人工智能与数据科学学院数据科学与大数据技术专业本科生。对人工智能、机器学习、数据科学等领域有浓厚兴趣。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## 教育背景
+
+**中国科学技术大学** · 人工智能与数据科学学院 · 数据科学与大数据技术  
+2023 年 9 月 - 至今  
+- **GPA**: 3.71 / 4.3
+- **排名**: 16 / 70
+- **英语**: CET-6 (564), CET-4 (617)
+
+### 核心课程
+
+| 课程 | 成绩 | 课程 | 成绩 | 课程 | 成绩 | 课程 | 成绩 |
+|------|------|------|------|------|------|------|------|
+| 随机过程 | B 95 | 数据结构 | A 91 | 信号与系统 | A 90 | 机器学习 | A 87 |
+| 计算机程序设计 | A 92 | 概率论与数理统计 | 91 | 人工智能原理与技术 | 89 | 计算机网络 | 86 |
+
+## 荣誉奖项
+
+- **NUS SOC Summer Workshop 小组项目"FinGame"First Prize** (2025 年 8 月)
+- **全国大学生数学竞赛（安徽省赛区）二等奖** (2025 年)
+- **中国科学技术大学优秀学生奖学金银奖、铜奖** (2023 - 2025)
+
+## 联系方式
+
+欢迎通过以下方式与我联系：
+- **邮箱**: halo@mail.ustc.edu.cn
+- **电话**: 19857706296
+- **GitHub**: [@RayHalo321](https://github.com/RayHalo321)
