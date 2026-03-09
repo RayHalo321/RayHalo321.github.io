@@ -6,10 +6,10 @@ subtitle: Undergraduate at University of Science and Technology of China
 
 profile:
   align: right
-  image: prof_pic.jpg
+  
   image_circular: false
   more_info: >
-    <p>📧 halo@mail.ustc.edu.cn</p>
+    <p>📧 halo@mail.ustc.edu.cn</p>\n    <p>📞 +86 19857706296</p>
 
 selected_papers: false
 social: true
